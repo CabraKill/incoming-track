@@ -1,5 +1,5 @@
 # incoming-track
-
+A scraping api with flask for tracking pages.
 
 API            |  Tracking
 :-------------------------:|:-------------------------:
@@ -26,11 +26,10 @@ The endpoint is */status* and shall return a json list with the status.
 
 # Configs ⚙️
 The setup is composed of two pieces:
-* Create a file with name *page.py* and a variable called *PAGE_LINK* with the tracking link.
-* Ajust the the searching method to the choosen page.
-
+* Create a file with the name *page.py* and a variable called *PAGE_LINK* with the tracking link.
+* Adjust the searching method to the chosen page.
 # Calibration 🧭
-The search method looks for a list of tags "p" with class "titulo". Probably it won't be your case so ajust the search to the logic within your page. Be clever!
+The search method looks for a list of tags "p" with class "titulo". Probably it won't be your case so adjust the search to the logic within your page. Be clever!
 
 # Improvments or Suggestions
 * Deploy to a server(firebase gcloud, heroku)
