@@ -14,7 +14,7 @@ flask run
 # Requirements
 Flask            |  BeautifulSoup
 :-------------------------:|:-------------------------:
-<img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="drawing" width="200"/>  |  <img src="https://i.pinimg.com/originals/05/db/b3/05dbb33728feb29928f03768b2c61486.png" alt="drawing" width="200"/>
+<img src="images/flask.jpg" alt="drawing" width="200"/>  |  <img src="images/soup.png" alt="drawing" width="200"/>
 
 
 # Why ❓️
