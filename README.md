@@ -1,5 +1,5 @@
 # incoming-track
-A scraping api with flask for tracking pages.
+A web scraping api with flask for tracking pages.
 
 API            |  Tracking
 :-------------------------:|:-------------------------:
